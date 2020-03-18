@@ -12,7 +12,6 @@ git clone https://github.com/Lienol/openwrt-package package/Lienol
 git clone https://github.com/coolsnowwolf/lede package/coolsnowwolf
 git clone https://github.com/vernesong/OpenClash  package/OpenClash
 git clone https://github.com/ntlf9t/luci-app-dnspod  package/dnspod
-git clone https://github.com/koolshare/ledesoft  package/ledesoft
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/adguardhome
 git clone https://github.com/tty228/luci-app-serverchan package/serverchan
 
